@@ -13889,6 +13889,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .netlogo {
   height: 40px;
 }
