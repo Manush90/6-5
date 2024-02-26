@@ -13942,4 +13942,32 @@ body {
   margin-left: 3rem;
 }
 
+.StriveS {
+  padding: 5px;
+  background-color: #666666;
+  text-align: left;
+  font-size: medium;
+  font-family: sans-serif;
+  padding-left: 15px;
+}
+
+.imgProfile {
+  height: 130px;
+}
+
+.buttonSave {
+  padding: 5px 10px 5px 10px;
+  background-color: white;
+  color: black;
+  border: none;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
+h3, .h3 {
+  font-size: large;
+  font-family: sans-serif;
+  color: #b8b8b8;
+}
+
 /*# sourceMappingURL=style.css.map */
